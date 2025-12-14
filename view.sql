@@ -1,0 +1,1 @@
+SELECT * FROM student_result.semester_result_summary;
